@@ -1,0 +1,8 @@
+1. Arrays, Hashes, and Strings
+    - methods for keeping hashes smaller in overall size
+        - hashes with linked list as key
+        - hashes with binary search tree
+    - ArrayList (dynamically Resizing Array)
+    - String Buffer
+        - instead of concatenating, make an array of strings and append to end of source array
+        
